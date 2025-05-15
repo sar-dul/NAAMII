@@ -1,0 +1,66 @@
+# Python-related
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.pdb
+*.log
+*.bak
+*.swp
+
+# Virtual Environment
+/segmentation_env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Dataset and model weights
+/data/
+
+
+# You can exclude model weights if you have large files
+*.h5
+*.pth
+*.ckpt
+
+# TensorFlow / PyTorch checkpoin files
+*.pb
+*.ckpt
+*.tflite
+
+# Output or result directories
+/output/
+/results/
+/logs/
+
+# IDE files (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test and coverage reports
+*.coverage
+*.pytest_cache
+*.hypothesis/
+
+# Misc
+*.csv
+*.json
+*.xml
+*.yaml
+
+# Model and other data from training
+checkpoint
+saved_model/
+
+# Docker files (if you're using Docker)
+docker-compose.yml
+Dockerfile
+
+# Miscellaneous
+*.tgz
+*.tar.gz
