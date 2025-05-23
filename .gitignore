@@ -30,7 +30,6 @@ __pycache__
 
 # Output or result directories
 /output/
-/results/
 /logs/
 
 # IDE files (VS Code, PyCharm, etc.)

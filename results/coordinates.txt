@@ -1,0 +1,2 @@
+Medial lowest point (z, y, x): (np.int64(72), np.int64(215), np.int64(244))
+Lateral lowest point (z, y, x): (np.int64(17), np.int64(0), np.int64(349))
